@@ -1,0 +1,3 @@
+ class LoggedInUser {
+    static User;
+}
